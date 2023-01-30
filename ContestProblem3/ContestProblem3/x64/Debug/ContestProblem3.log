@@ -1,0 +1,3 @@
+﻿  ContestProblem3.cpp
+C:\Users\Игорь\source\repos\ContestProblem3\ContestProblem3\ContestProblem3.cpp(5,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  ContestProblem3.vcxproj -> C:\Users\Игорь\source\repos\ContestProblem3\x64\Debug\ContestProblem3.exe
